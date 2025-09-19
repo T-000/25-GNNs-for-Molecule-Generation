@@ -1,4 +1,4 @@
-# DiGress: Discrete Denoising Diffusion for Graph Generation
+# Molecule Generation with Graph Diffusion (GNN-based)
 
 *A hands-on tutorial notebook that walks through the core ideas behind **DiGress** (discrete diffusion for graphs) and implements a lightweight version with PyTorch Geometric, trained on a subset of **QM9**. Adapted from a TeachOpenCADD template.*
 
